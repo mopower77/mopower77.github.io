@@ -1,5 +1,5 @@
 title: devlopr
-subtitle: A Portfolio Jekyll Theme Built for Developers
+#subtitle:
 description: >- # this means to ignore newlines until "baseurl:"
   devlopr-jekyll is a beautiful Jekyll Theme Built For Developers, which is optimized for speed and readability.
 
@@ -28,10 +28,10 @@ urls:
 
 author_logo: profile.png
 author: jaehwan mo
-author_bio: Hi, my name is mopower77. I built this site using devlopr-jekyll :D
+author_bio: Hi, my name is mopower77.
 author_email: "mopower11@gmail.com"
 author_location: korea
-author_website_url: "https://sujaykundu.com"
+#author_website_url: ""
 typewrite-text: 배움엔 끝이 없다. MJH
 
 # Experiences
@@ -89,7 +89,7 @@ typewrite-text: 배움엔 끝이 없다. MJH
 hyvor_talk_website_id: 476
 
 # wakatime username (coding activity)
-wakatime_username: sujaykundu777
+#wakatime_username:
 
 # mailchimp embedded form url (newsletter):
 mailchimp_form_url: https://sujaykundu.us10.list-manage.com/subscribe/post?u=50bab1c85eae24ecfb0f68361&amp;id=3a2dd721d0
