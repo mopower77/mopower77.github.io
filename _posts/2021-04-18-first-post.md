@@ -4,7 +4,7 @@ title:  "포스트 제목"
 summary: "소제목"
 author: mopower77
 date: '2021-04-18'
-category: 테스트
+category: test
 thumbnail: /assets/img/posts/hello.jpg
 ---
 
