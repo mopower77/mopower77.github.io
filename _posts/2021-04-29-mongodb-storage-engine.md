@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "MongoDB wiredTiger 특징"
-summary: "MongoDB의 wiredTiger 스토리지 엔진"
+title:  "MongoDB 스토리지엔진"
+summary: "MongoDB 스토리지 엔진"
 author: mopower77
 date: '2021-04-29'
 category: mongodb
