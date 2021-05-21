@@ -50,13 +50,16 @@ typewrite-text: 배움엔 끝이 없다. MJH
 #              visibility: true
 
 # Education
-#author_education_details:
-#              - college_logo: mit.png
-#                college_name: MIT
-#                college_url: https://mit.org
-#                college_degree: CS Engineer
-#                description: Bachelor of Technology
-#                visibility: true
+author_education_details:
+              - college_name: hana-lee
+                college_url: https://hana-lee.github.io
+                visibility: true
+              - college_name: ieee1986
+                college_url: https://ieee1986.github.io
+                visibility: true
+              - college_name: hr-lee
+                college_url: https://hr-lee.github.io
+                visibility: true
 
 # Projects
 #author_project_details:
